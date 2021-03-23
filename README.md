@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# bobaMapping
-Data visualization project testing out different mapping packages
-=======
 # Mapping boba stores in the SF Bay Area
 Overview and guide to different mapping packages (Basemap, Geopandas, Shapefiles, and Folium) in Python using a boba store dataset. 
 
@@ -12,8 +8,3 @@ Overview and guide to different mapping packages (Basemap, Geopandas, Shapefiles
 
 Thanks!
 
-
-
-
-
->>>>>>> 98fc96c43bba5e9864e6b698d447f15fd9f6a0fb
