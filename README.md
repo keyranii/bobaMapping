@@ -1,2 +1,2 @@
 # bobaMapping
-Overview of different mapping packages in Python using a boba store dataset
+Data visualization project testing out different mapping packages
